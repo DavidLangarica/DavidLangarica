@@ -1,4 +1,4 @@
-#Hy, I'm David Langarica!
+# Hey, I'm David Langarica!
 
 I am a Mexican, born and raised in Irapuato, Guanajuato. Recently I moved to Querétaro, and here, I'm studying Computer Science Engineering in Tecnológico de Monterrey
 and pursuing the UX Design certification by Google Careers.
