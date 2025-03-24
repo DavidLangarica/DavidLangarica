@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hi there, I'm David Langarica 👋<br>I'm a Creative Developer, Software Engineer, and UX/UI Designer from Querétaro, Mexico. As a Computer Science and Technology student at Tecnológico de Monterrey ('25), I blend design and tech to build smooth, engaging web experiences. My work revolves around translating Figma designs into lively, responsive websites using React and Next.js, all while keeping user experience front and center ​Profile.<br><br>🔭 What I'm Working On<br>Crafting pixel-perfect, high-performance web applications.<br><br>Experimenting with Generative AI to elevate digital interactions and creative solutions.<br><br>👯 Open to Collaborations<br>Teaming up with developers and designers to innovate and push creative boundaries.<br><br>Engaging in projects that require a seamless fusion of design aesthetics and robust technology.<br><br>🌱 What I'm Learning<br>Advanced web development techniques and integrating AI-driven features.<br><br>The latest trends in UX/UI design to continuously enhance user experiences.<br><br>🤝 How You Can Help<br>Share insights or tools to optimize design systems and streamline agile development.<br><br>Collaborate on pioneering projects where creative design meets technical excellence.<br><br>💬 Ask Me About<br>Converting Figma prototypes into interactive, production-ready interfaces.<br><br>My journey as a Product Engineer and UX/UI Designer in fast-paced environments.<br><br>Balancing cutting-edge tech with innovative design.<br><br>⚡ Fun Fact<br>Beyond coding, I'm proud to serve as a Student Ambassador at Tec de Monterrey, connecting future tech talents with industry insights and opportunities.
 
 
@@ -14,9 +14,6 @@ Hi there, I'm David Langarica 👋<br>I'm a Creative Developer, Software Enginee
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DavidLangarica&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DavidLangarica&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
